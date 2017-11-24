@@ -26,6 +26,11 @@
             android:layout_height="wrap_content"
             android:id="@+id/send"
             android:text="Send"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/receive"
+            android:text="Receive"/>
     </LinearLayout>
 
 </LinearLayout>
